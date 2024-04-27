@@ -1,6 +1,10 @@
-[![repository](https://img.shields.io/badge/repository-gray)](https://github.com/JetsadaWijit/university-bangkok-2024-3yr-sm2-cs462-project) [![mail](https://img.shields.io/badge/mail-blue)](mailto:ze_ro_owen@hotmail.com)
-<div align="center">
-  <a href="https://opencollective.com/jetsadawijit" target="_blank" rel="noopener noreferrer">
-    <img width="300" src="https://opencollective.com/public/images/opencollectivelogo.svg" alt="Open Collective">
-  </a>
-</div>
+<h3 align="center">
+
+`JetsadaWijit`
+
+[![repository](https://img.shields.io/badge/repository-white)](https://github.com/jetsadawijit/university-bangkok-2024-3yr-sm2-cs462-project)
+[![website](https://img.shields.io/badge/website-white)](https://jetsadawijit.github.io/university-bangkok-2024-3yr-sm2-cs462-project-website)
+[![mail](https://img.shields.io/badge/mail-white)](mailto:ze_ro_owen@hotmail.com)
+[![Donation](https://img.shields.io/badge/donation-white)](https://jetsadawijit.github.io/donation)
+
+</h3>
