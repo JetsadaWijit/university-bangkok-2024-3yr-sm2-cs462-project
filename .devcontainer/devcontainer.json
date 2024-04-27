@@ -9,6 +9,7 @@
                 "ms-azuretools.vscode-docker", // Docker
                 "alefragnani.bookmarks", // Booke Marks
                 "eamodio.gitlens", // GitLens
+                "ms-python.python", // Python
                 "ms-toolsai.jupyter" // Jupyter pack
             ]
         }
