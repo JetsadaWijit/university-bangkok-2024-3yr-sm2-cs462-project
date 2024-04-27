@@ -8,7 +8,8 @@
             "extensions": [
                 "ms-azuretools.vscode-docker", // Docker
                 "alefragnani.bookmarks", // Booke Marks
-                "eamodio.gitlens" // GitLens
+                "eamodio.gitlens", // GitLens
+                "ms-toolsai.jupyter" // Jupyter pack
             ]
         }
     }
